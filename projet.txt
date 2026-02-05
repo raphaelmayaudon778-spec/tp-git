@@ -1,2 +1,3 @@
  Version 1: Fonctionne bien
 Version 2: Ajout feature A
+Version 3: Bug introduit !
